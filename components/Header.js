@@ -3,9 +3,7 @@ export default function Header({ title }) {
     <>
       <h1 className="title">{title}</h1>
       <p>
-        Hi 👋! This template gives you a{" "}
-        <a href="https://nextjs.org/">Next.js</a> app with the scaffolding for{" "}
-        <a href="https://www.netlify.com/products/functions/">
+        Hi 👋! This Isaiah gives you an amazing product thats just right for you
           Netlify Functions
         </a>
         , <a href="https://www.netlify.com/products/forms/">Forms</a>, and{" "}
